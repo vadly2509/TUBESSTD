@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1731914462 source:c:\users\vadly\onedrive - telkom university\documents\tugas std\tubes2\main.cpp
+	"TUBESSTD.h"
+
+1731934831 c:\users\vadly\onedrive - telkom university\documents\tugas std\tubes2\tubesstd.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1731935015 source:c:\users\vadly\onedrive - telkom university\documents\tugas std\tubes2\tubesstd.cpp
+	"TUBESSTD.h"
+
+1731914462 source:c:\users\vadly\onedrive - telkom university\desktop\tubes2\main.cpp
+	"TUBESSTD.h"
+
+1731934831 c:\users\vadly\onedrive - telkom university\desktop\tubes2\tubesstd.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1731935015 source:c:\users\vadly\onedrive - telkom university\desktop\tubes2\tubesstd.cpp
+	"TUBESSTD.h"
+
+1731914462 source:c:\users\vadly\onedrive - telkom university\desktop\tubes std final\main.cpp
+	"TUBESSTD.h"
+
+1733303342 c:\users\vadly\onedrive - telkom university\desktop\tubes std final\tubesstd.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1733303342 source:c:\users\vadly\onedrive - telkom university\desktop\tubes std final\tubesstd.cpp
+	"TUBESSTD.h"
+
+1734450027 source:c:\users\vadly\onedrive - telkom university\desktop\tubes vadly aryu septian std tanggal final 4 12 2024\main.cpp
+	"TUBESSTD.h"
+
+1734450140 c:\users\vadly\onedrive - telkom university\desktop\tubes vadly aryu septian std tanggal final 4 12 2024\tubesstd.h
+	<iostream>
+	<conio.h>
+
+1734429234 source:c:\users\vadly\onedrive - telkom university\desktop\tubes vadly aryu septian std tanggal final 4 12 2024\tubesstd.cpp
+	"TUBESSTD.h"
+
+1734450027 source:c:\users\vadly\desktop\tubes vadly aryu septian std tanggal final 4 12 2024\main.cpp
+	"TUBESSTD.h"
+
+1734450140 c:\users\vadly\desktop\tubes vadly aryu septian std tanggal final 4 12 2024\tubesstd.h
+	<iostream>
+	<conio.h>
+
+1734429234 source:c:\users\vadly\desktop\tubes vadly aryu septian std tanggal final 4 12 2024\tubesstd.cpp
+	"TUBESSTD.h"
+
