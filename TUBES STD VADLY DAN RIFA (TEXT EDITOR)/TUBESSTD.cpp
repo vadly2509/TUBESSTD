@@ -185,6 +185,9 @@ void insertNewLine_103052300025_103052300087(List& L) {
         }
         current->prev = newLine;
     }
+
+    L.cursorPos++;
+    L.length++;
 }
 void push_undo(Stack& S, infotype x, bool isInsertion) {
     if (!isFull_103052300025_103052300087(S)) {
