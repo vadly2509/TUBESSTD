@@ -249,15 +249,7 @@ void handleBackspace(List& L, Stack& undoStack) {
         infotype deletedChar;
         del_103052300025_103052300087(L, deletedChar);
         push_undo(undoStack, deletedChar, false);
-    } else if (L.cursorPos == 0 && L.first != nullptr) {
-        adr prev = L.first;
-        while (prev->next != nullptr) {
-            prev = prev->next;
-        }
-        infotype deletedChar;
-        del_103052300025_103052300087(L, deletedChar);
-        push_undo(undoStack, deletedChar, false);
-    }
+    } 
 }
 void insertNewCharacter(List& L, Stack& undoStack, infotype newChar) {
     insL_103052300025_103052300087(L, newChar);
